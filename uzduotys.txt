@@ -13,8 +13,8 @@ Savo projekto kūrimas:
 + Užsiregistruoti github.com
 + „create a new repository“
 - Sekti instrukcijas
-- Sukurti keletą failų.
-- Pervadinti failą neprarandant istorijos.
++ Sukurti keletą failų.
++ Pervadinti failą neprarandant istorijos.
 
 - Sukurti šaką, atlikti joje pakeitimų, sulieti pakeitimus su „master“,
 ištrinti šaką
