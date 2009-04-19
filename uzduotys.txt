@@ -10,8 +10,8 @@ Susigeneruoti SSH raktą (ssh-keygen)
 git clone git://github.com/gintas/nma-2009-git.git
 
 Savo projekto kūrimas:
-- Užsiregistruoti github.com
-- „create a new repository“
++ Užsiregistruoti github.com
++ „create a new repository“
 - Sekti instrukcijas
 - Sukurti keletą failų.
 - Pervadinti failą neprarandant istorijos.
